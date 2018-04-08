@@ -1,0 +1,9 @@
+c:\users\bryan\documents\visual studio 2017\Projects\Viva HR Program\Viva HR Program\bin\Debug\Viva HR Program.exe.config
+c:\users\bryan\documents\visual studio 2017\Projects\Viva HR Program\Viva HR Program\bin\Debug\Viva HR Program.exe
+c:\users\bryan\documents\visual studio 2017\Projects\Viva HR Program\Viva HR Program\bin\Debug\Viva HR Program.pdb
+c:\users\bryan\documents\visual studio 2017\Projects\Viva HR Program\Viva HR Program\obj\Debug\Viva_HR_Program.Form1.resources
+c:\users\bryan\documents\visual studio 2017\Projects\Viva HR Program\Viva HR Program\obj\Debug\Viva_HR_Program.Properties.Resources.resources
+c:\users\bryan\documents\visual studio 2017\Projects\Viva HR Program\Viva HR Program\obj\Debug\Viva HR Program.csproj.GenerateResource.Cache
+c:\users\bryan\documents\visual studio 2017\Projects\Viva HR Program\Viva HR Program\obj\Debug\Viva HR Program.exe
+c:\users\bryan\documents\visual studio 2017\Projects\Viva HR Program\Viva HR Program\obj\Debug\Viva HR Program.pdb
+c:\users\bryan\documents\visual studio 2017\Projects\Viva HR Program\Viva HR Program\obj\Debug\Viva HR Program.csprojResolveAssemblyReference.cache
